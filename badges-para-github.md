@@ -1,5 +1,5 @@
 <h1 align="center">
-	Sejam bem vindos!
+	Sejam bem vindos!!
 </h1>
 
 <p align="center">
